@@ -2,7 +2,7 @@
 
 A Coaching App Flutter Project
 
-N/B ~ To run this poject you need to have flutter installed on your Machine
+N/B ~ To run this project you need to have flutter installed on your Machine
 
 ## Getting Started
 
